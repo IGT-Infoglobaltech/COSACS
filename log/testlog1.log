@@ -1,0 +1,52 @@
+
+2020-01-30 21:35:10,628 [main] INFO cosac - User Clicked on Create
+2020-01-30 21:35:15,102 [main] INFO cosac - User Clicked on Location
+2020-01-30 21:35:15,881 [main] INFO cosac - User are in Create Location Page
+2020-01-31 15:23:36,180 [main] INFO cosac - User Clicked on Merchandising
+2020-01-31 15:23:36,470 [main] INFO cosac - User Clicked on Create
+2020-01-31 15:23:40,881 [main] INFO cosac - User Clicked on Location
+2020-01-31 15:23:41,680 [main] INFO cosac - User are in Create Location Page
+2020-02-07 15:45:29,176 [main] INFO cosac - User are in Create Location Page
+2020-02-07 15:45:30,107 [main] INFO cosac - User are able to Create Location
+2020-02-07 15:58:54,548 [main] INFO cosac - User are in Create Location Page
+2020-02-07 15:58:55,490 [main] INFO cosac - User are able to Create Location
+2020-02-07 16:01:48,982 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-02-07 16:01:49,993 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-02-07 16:09:53,262 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-02-07 16:09:54,343 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-03-02 06:48:20,532 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-03-02 06:48:21,380 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-03-02 07:03:10,859 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-03-02 07:03:11,742 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-03-02 07:08:15,843 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-03-02 07:08:16,667 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-03-04 01:37:15,109 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-03-04 01:37:15,963 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-03-04 01:38:53,457 [TestNG-tests-1] INFO cosac - User Entered UserName
+2020-03-04 01:38:53,606 [TestNG-tests-1] INFO cosac - User Entered PassWord
+2020-03-04 01:38:53,693 [TestNG-tests-1] INFO cosac - User Clicked on Login
+2020-03-04 01:39:01,217 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-03-04 01:39:02,081 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-03-04 01:41:35,006 [main] INFO cosac - User Entered UserName
+2020-03-04 01:41:35,159 [main] INFO cosac - User Entered PassWord
+2020-03-04 01:41:35,257 [main] INFO cosac - User Clicked on Login
+2020-03-04 01:41:37,350 [main] INFO cosac - User are in Create Location Page
+2020-03-04 01:41:38,163 [main] INFO cosac - User are able to Create Location
+2020-03-04 01:41:47,937 [main] INFO cosac - User Entered UserName
+2020-03-04 01:41:48,051 [main] INFO cosac - User Entered PassWord
+2020-03-04 01:41:48,129 [main] INFO cosac - User Clicked on Login
+2020-03-04 01:41:50,252 [main] INFO cosac - User are in Create Location Page
+2020-03-04 01:41:51,115 [main] INFO cosac - User are able to Create Location
+2020-03-04 04:59:35,657 [main] INFO cosac - User Entered UserName
+2020-03-04 04:59:35,872 [main] INFO cosac - User Entered PassWord
+2020-03-04 04:59:35,981 [main] INFO cosac - User Clicked on Login
+2020-03-04 04:59:38,474 [main] INFO cosac - User are in Create Location Page
+2020-03-04 04:59:39,752 [main] INFO cosac - User are able to Create Location
+2020-03-04 04:59:49,750 [main] INFO cosac - User Entered UserName
+2020-03-04 04:59:49,887 [main] INFO cosac - User Entered PassWord
+2020-03-04 04:59:49,998 [main] INFO cosac - User Clicked on Login
+2020-03-04 04:59:54,530 [main] INFO cosac - User are in Create Spare Part Page
+2020-03-04 05:02:35,710 [main] INFO cosac - User Entered UserName
+2020-03-04 05:02:35,907 [main] INFO cosac - User Entered PassWord
+2020-03-04 05:02:36,025 [main] INFO cosac - User Clicked on Login
+2020-03-04 05:02:41,240 [main] INFO cosac - User are in Create Spare Part Page
